@@ -1,0 +1,1 @@
+## [演習ワークシート](http://colab.research.google.com/github/ueharaLab/python14_MLB/blob/main/MLBデータの分析.ipynb)
