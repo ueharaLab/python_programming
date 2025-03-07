@@ -3,6 +3,7 @@
 ## 第1回 [プログラミングとは](./pytnon1/講義演習サンプル.md)：
 
 講義の進め方、受講方法、講義資料の入手、演習問題回答提出に関する操作など
+[演習](http://colab.research.google.com/github/ueharaLab/python_programming/python1/blob/main/講義演習サンプル.ipynb)
 
 ## 第2回 [プログラミングの基本](https://github.com/ueharaLab/python2_basics)
 
